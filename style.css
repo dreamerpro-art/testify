@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body { background-repeat:no-repeat; font-family:verdana; color:rgb(128,128,128); }
+
+.contain-x{ margin-left:480px; margin-top:166px; border:none;}
+
+.BA { margin-left:24px; font-size:14px; margin-top:37px;}
+.BA:focus{outline: none;}
+
+.BB { margin-left:0px; margin-top:32px; font-size:14px; height:20px; width:300px; border:none; background-color:transparent;}
+.BB:focus{outline: none;}
+
+.BC { margin-left:243px; margin-top:99px; cursor:pointer; height:33px; width:108px; border:none; background-color:transparent;}
+.BC:focus{outline: none;}
